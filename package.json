@@ -93,7 +93,7 @@
     "@types/mime-types": "^2.1.0",
     "@types/pify": "^3.0.2",
     "@types/progress-stream": "^2.0.0",
-    "@types/react": "^16.7.9",
+    "@types/react": "^17.0.14",
     "@types/react-dom": "^16.0.11",
     "@types/react-redux": "^6.0.10",
     "@types/react-router": "^4.4.1",
